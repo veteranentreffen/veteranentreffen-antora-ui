@@ -11,7 +11,9 @@ body {
 }
 
 .navbar {
-  background-color: var(--color-navbar-bg);
+  background-image: linear-gradient(to bottom right,
+                                    var(--color-navbar-bg),
+                                    var(--color-navbar-bg-transition));
   color: var(--color-navbar-text);
   font-size: 0.83333rem;
   height: var(--navbar-height);

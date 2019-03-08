@@ -1,6 +1,7 @@
 :root {
   --color-text: #222;
-  --color-navbar-bg: #0a0a0a;
+  --color-navbar-bg: #B76C2B;
+  --color-navbar-bg-transition: #7C391E;
   --color-navbar-bg-focus: #000;
   --color-navbar-text: #fff;
 }
